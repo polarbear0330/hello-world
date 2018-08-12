@@ -1,6 +1,4 @@
-# hello-world
-just an example test
+# demos i like
+This folder collects demos i interested in.
 
-`a sjtuer， postgraduate`
-
-testtesttest
+`a sjtuer`
